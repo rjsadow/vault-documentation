@@ -1,5 +1,5 @@
 # vault-documentation
-vault.hashicorp.com/agent-inject - configures whether injection is explicitly enabled or disabled for a pod. This should be set to a true or false value. Defaults to false.
+**vault.hashicorp.com/agent-inject** - configures whether injection is explicitly enabled or disabled for a pod. This should be set to a true or false value. Defaults to false.
 
 vault.hashicorp.com/agent-inject-status - blocks further mutations by adding the value injected to the pod after a successful mutation.
 
